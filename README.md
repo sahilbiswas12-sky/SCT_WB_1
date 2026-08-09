@@ -1,2 +1,2 @@
-**SCT_WB_1**
-A Responsive Landing Page.
+# SCT_WB_1
+Stopwatch Web Application.
